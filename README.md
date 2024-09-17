@@ -1,7 +1,7 @@
 
 # MCSR Practice Map
 
-Map which combines every imporant practice map into one while adding new features and sections.
+Map which combines every imporant 1.16.1 practice map into one while adding new features and sections.
 
 ## Features
 - **Portal Practice**
@@ -17,38 +17,29 @@ Map which combines every imporant practice map into one while adding new feature
     - Boat + Door & Iron Tools Crafting
     - Inventory Sorting
     - Inventory Clean-Up
+    - Chest Looting
     - Zero Prep
 - **Movement Practice**
     - Pearl Practice | Wall - Overhang - Lava
-    - Bridging | Normal - Soul Sand - Soul Speed
-    - Boat Practice | Jump - MLG
+    - Bridging | Normal - Soul Sand - Soul Speed 1/2/3
+    - Boat Practice | Jump - MLG - Sprint Crouching
 - **Search Crafting**
+    - Not implemented yet!
 - **Bastion Practice**
-    - Added "Playable" Switch for Stables (Guarantees least one Triple Chest and Good Gap)
-
 - **Fortress** 
     - Spawner
     - Blaze Bed / TNT
 - **Hub System**
-    - Supports ```/trigger <Practice Section>``` which allows   quick practice scenario switching
-    - Standard / Simple Hub Design | Changable in the Options ```/trigger options```
+    - Supports ```/trigger <Practice Section>``` which allows quick practice scenario switching
+    - Standard / Simple Hub Design | Changable in the options ```/trigger options```
     - Map sounds can be turned On/Off
-
-
-
-    
-
-
-
-
-
 
 
 ## Credits
 
 - Portal Practice - Semperzz
 - Zero Practice - Mescht
-- Search Craft - Mescht
+- Search Crafting - Mescht
 - OW Practice - Dibedy
 - Bastion Practice - Llama
 - Fortress Practice - Dibedy
