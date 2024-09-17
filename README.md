@@ -1,5 +1,5 @@
 
-# MCSR Practice Map
+# **THE** MCSR Practice Map
 
 Map which combines every imporant 1.16.1 practice map into one while adding new features and sections.
 
