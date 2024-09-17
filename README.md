@@ -1,7 +1,7 @@
 
 # The MCSR Practice Map
 
-Map which combines every imporant 1.16.1 practice map into one while adding new features and sections.
+Map which combines every imporant 1.16.1 practice map into one while adding new features and practice sections.
 
 ## Features
 - **Portal Practice**
