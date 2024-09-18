@@ -5,10 +5,12 @@ Map which combines every imporant 1.16.1 practice map into one while adding new 
 
 ## Features
 - **Portal Practice**
+    - Added closed Terrain Portals
 - **Zero Practice**
     - Added Zero Setup Practice
 - **Search Crafting**
 - **Overworld Practice**
+    - **This section was specially created for the map**
     - Shipwreck | Normal - Sideways - Upside Down
     - Desert Temple
     - Village
@@ -27,7 +29,7 @@ Map which combines every imporant 1.16.1 practice map into one while adding new 
     - Not implemented yet!
 - **Bastion Practice**
 - **Fortress** 
-    - Spawner
+    - Spawner Practice
     - Blaze Bed / TNT
 - **Hub System**
     - Supports ```/trigger <Practice Section>``` which allows quick practice scenario switching
@@ -38,6 +40,7 @@ Map which combines every imporant 1.16.1 practice map into one while adding new 
 If you have any map suggestions or bug-reports, feel free to use the link below or the "Issues" tab on this
 GitHub Project :) 
 
+
 [Feedback - Link](https://www.surveymonkey.com/r/YTMFP3J)
 
 ## Credits
@@ -46,6 +49,6 @@ GitHub Project :)
 - Zero Practice - Mescht
 - Search Crafting - Mescht
 - OW Practice - Dibedy
-- Bastion Practice - Llama
+- Bastion Practice - LlamaPag
 - Fortress Practice - Dibedy
 - Hub System - Dibedy
