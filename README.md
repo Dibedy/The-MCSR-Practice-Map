@@ -49,5 +49,3 @@ GitHub Project :)
 - Bastion Practice - Llama
 - Fortress Practice - Dibedy
 - Hub System - Dibedy
-
-https://www.surveymonkey.com/r/YTMFP3J
