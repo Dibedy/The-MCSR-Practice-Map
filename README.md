@@ -25,7 +25,7 @@ Map which combines every imporant 1.16.1 practice map into one while adding new 
     - Pearl Practice | Wall - Overhang - Lava
     - Bridging | Normal - Soul Sand - Soul Speed 1/2/3
     - Boat Practice | Jump - MLG - Sprint Crouching
-- **Search Crafting**
+- ***Search Crafting***
     - Not implemented yet!
 - **Bastion Practice**
 - **Fortress** 
