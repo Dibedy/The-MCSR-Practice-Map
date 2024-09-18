@@ -38,6 +38,8 @@ Map which combines every imporant 1.16.1 practice map into one while adding new 
 If you have any map suggestions or bug-reports, feel free to use the link below or the "Issues" tab on this
 GitHub Project :) 
 
+[Feedback - Link](https://www.surveymonkey.com/r/YTMFP3J)
+
 ## Credits
 
 - Portal Practice - Semperzz
