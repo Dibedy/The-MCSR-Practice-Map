@@ -1,54 +1,48 @@
-
 # The MCSR Practice Map
 
-Map which combines every imporant 1.16.1 practice map into one while adding new features and practice sections.
+MCSR Map which combines every imporant 1.16.1 Practice Map into one while adding new features and sections.
 
 ## Features
 - **Portal Practice**
-    - Added closed Terrain Portals
+  - Adds closed Terrain Portals
 - **Zero Practice**
-    - Added Zero Setup Practice
+  - Includes Zero Setup Practice
 - **Search Crafting**
 - **Overworld Practice**
-    - **This section was specifically created for the map**
-    - Shipwreck | Normal - Sideways - Upside Down
-    - Desert Temple
-    - Village
-    - Ruined Portal + Buried Treasure
-    - BT Looting + Crafting
-    - Boat + Door & Iron Tools Crafting
-    - Inventory Sorting
-    - Inventory Clean-Up
-    - Chest Looting
-    - Zero Prep
+  - *This section was specifically created for the map*
+  - Shipwreck: Normal, Sideways, Upside Down
+  - Desert Temple
+  - Village
+  - Ruined Portal + Buried Treasure
+  - BT Looting & Crafting
+  - Boat + Door & Iron Tools Crafting
+  - Inventory Sorting, Clean-Up
+  - Chest Looting
+  - Zero Prep
 - **Movement Practice**
-    - Pearl Practice | Wall - Overhang - Lava
-    - Bridging | Normal - Soul Sand - Soul Speed 1/2/3
-    - Boat Practice | Jump - MLG - Sprint Crouching
+  - Pearl Practice: Wall, Overhang, Lava
+  - Bridging: Normal, Soul Sand, Soul Speed 1/2/3
+  - Boat Practice: Jump, MLG, Sprint Crouching
 - ***Search Crafting***
-    - Not implemented yet!
+  - Not implemented yet!
 - **Bastion Practice**
 - **Fortress** 
-    - Spawner Practice
-    - Blaze Bed / TNT
+  - Spawner Practice
+  - Blaze Bed / TNT
 - **Hub System**
-    - Supports ```/trigger <Practice Section>``` which allows quick practice scenario switching
-    - Standard / Simple Hub Design | Changable in the options ```/trigger options```
-    - Map sounds can be turned On/Off
+  - Supports `/trigger <Practice Section>` for quick scenario switching
+  - Standard/Simple Hub Design (Customizable via `/trigger options`)
+  - Map sounds can be toggled On/Off
 
 ## Feedback
-If you have any map suggestions or bug-reports, feel free to use the link below or the "Issues" tab on this
-GitHub Project :) 
-
+Feel free to use the link below or the GitHub "Issues" tab to give feedback on this Project. 
 
 [Feedback - Link](https://www.surveymonkey.com/r/YTMFP3J)
 
 ## Credits
-
-- Portal Practice - Semperzz
-- Zero Practice - Mescht
-- Search Crafting - Mescht
-- OW Practice - Dibedy
-- Bastion Practice - LlamaPag
-- Fortress Practice - Dibedy
-- Hub System - Dibedy
+- **Portal Practice** - Semperzz
+- **Zero Practice** - Mescht
+- **OW Practice** - Dibedy
+- **Bastion Practice** - LlamaPag
+- **Fortress Practice** - Dibedy
+- **Hub System** - Dibedy
