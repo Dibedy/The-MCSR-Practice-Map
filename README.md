@@ -34,6 +34,9 @@ Map which combines every imporant 1.16.1 practice map into one while adding new 
     - Standard / Simple Hub Design | Changable in the options ```/trigger options```
     - Map sounds can be turned On/Off
 
+## Feedback
+If you have any map suggestions or bug-reports, feel free to use the link below or the "Issues" tab on this
+GitHub Project :) 
 
 ## Credits
 
@@ -45,3 +48,4 @@ Map which combines every imporant 1.16.1 practice map into one while adding new 
 - Fortress Practice - Dibedy
 - Hub System - Dibedy
 
+https://www.surveymonkey.com/r/YTMFP3J
