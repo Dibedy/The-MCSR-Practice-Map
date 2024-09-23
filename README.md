@@ -6,7 +6,7 @@ MCSR Map which combines every imporant 1.16.1 Practice Map into one while adding
 - **Portal Practice**
   - Added closed Terrain Portals
 - **Zero Practice**
-  - Includes Zero Setup Practice
+  - Added Zero Setup Practice
 - **Overworld Practice**
   - *This section was specifically created for the map*
   - Shipwreck: Normal, Sideways, Upside Down
