@@ -48,8 +48,8 @@ Feel free to use the link below or the GitHub "Issues" tab to give feedback on t
 - **Portal Practice** - Semperzz
 - **Zero Practice** - Mescht
 - **Search Crafting** - Mescht
-- **OW Practice** - Dibedy
 - **Bastion Practice** - LlamaPag
+- **OW Practice** - Dibedy
 - **Fortress Practice** - Dibedy
 - **Hub System** - Dibedy
 - **Queue Games** - Dibedy
