@@ -35,6 +35,7 @@ MCSR Map which combines every imporant 1.16.1 Practice Map into one while adding
   - Save the Cat - Save the cat, by crafting faster, than the lava flows
   - Run N' Jump - Complete as many jumps as possible to set a new PB
 - **Hub System**
+  - Supports `/trigger repairhub` if you break a sign, block or anything else in the hub
   - Supports `/trigger <Practice Section>` for quick scenario switching
   - Standard/Simple Hub Design (Changable via `/trigger options`)
   - Map sounds can be toggled On/Off
