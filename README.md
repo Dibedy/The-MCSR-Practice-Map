@@ -5,7 +5,7 @@ MCSR Map which combines every imporant 1.16.1 Practice Map into one while adding
 ## Features
 - **Portal Practice**
   - Added closed Terrain Portals
-- **Zero Practice**
+- **Zero / One Cycle Practice**
   - Added Zero Setup Practice
 - **Overworld Practice**
   - *This section was specifically created for the map*
@@ -29,9 +29,14 @@ MCSR Map which combines every imporant 1.16.1 Practice Map into one while adding
 - **Fortress** 
   - Spawner Practice
   - Blaze Bed / TNT
+- **Queue Games**
+  - *Games you can play, while you are in the MCSR Ranked Queue, or just for fun :)*
+  - Replica - Rebuild the shown builds as quick as possible
+  - Save the Cat - Save the cat, by crafting faster, than the lava flows
+  - Run N' Jump - Complete as many jumps as possible to set a new PB
 - **Hub System**
   - Supports `/trigger <Practice Section>` for quick scenario switching
-  - Standard/Simple Hub Design (Customizable via `/trigger options`)
+  - Standard/Simple Hub Design (Changable via `/trigger options`)
   - Map sounds can be toggled On/Off
 
 ## Feedback
@@ -42,7 +47,9 @@ Feel free to use the link below or the GitHub "Issues" tab to give feedback on t
 ## Credits
 - **Portal Practice** - Semperzz
 - **Zero Practice** - Mescht
+- **Search Crafting** - Mescht
 - **OW Practice** - Dibedy
 - **Bastion Practice** - LlamaPag
 - **Fortress Practice** - Dibedy
 - **Hub System** - Dibedy
+- **Queue Games** - Dibedy
