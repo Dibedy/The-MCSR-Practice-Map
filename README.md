@@ -22,8 +22,7 @@ MCSR Map which combines every imporant 1.16.1 Practice Map into one while adding
   - Pearl Practice: Wall, Overhang, Lava
   - Bridging: Normal, Soul Sand, Soul Speed 1/2/3
   - Boat Practice: Jump, MLG, Sprint Crouching
-- ***Search Crafting***
-  - Not implemented yet!
+- **Search Crafting**
 - **Bastion Practice**
   - File Size Information Doc - [Link](https://docs.google.com/document/d/1Rwwi_wdfORUhWOdMs_ivI2N-IlWQMbfT3lh6bnO-8KA/edit?usp=sharing)
 - **Fortress** 
