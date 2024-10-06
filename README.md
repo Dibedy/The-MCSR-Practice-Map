@@ -1,6 +1,6 @@
 # The MCSR Practice Map
 
-MCSR Map which combines every imporant 1.16.1 Practice Map into one while adding new features and sections.
+A Practice map which combines every imporant 1.16.1 Practice Map into one, while adding new features and sections.
 
 ## Features
 - **Portal Practice**
@@ -33,6 +33,8 @@ MCSR Map which combines every imporant 1.16.1 Practice Map into one while adding
   - Replica - Rebuild the shown builds as quick as possible
   - Save the Cat - Save the cat, by crafting faster, than the lava flows
   - Run N' Jump - Complete as many jumps as possible to set a new PB
+  - Gambling with coins you get from Queue Games
+  - Pets you can buy with coins
 - **Hub System**
   - Supports `/trigger repairhub` if you break a sign, block or anything else in the hub
   - Supports `/trigger <Practice Section>` for quick scenario switching
@@ -40,7 +42,7 @@ MCSR Map which combines every imporant 1.16.1 Practice Map into one while adding
   - Map sounds can be toggled On/Off
 
 ## Feedback
-Feel free to use the link below or the GitHub "Issues" tab to give feedback on this Project. 
+Feel free to use the link below to give feedback on this Project. 
 
 [Feedback - Link](https://www.surveymonkey.com/r/YTMFP3J)
 
