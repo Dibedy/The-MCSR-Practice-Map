@@ -27,7 +27,7 @@ A Practice map which combines every imporant 1.16.1 Practice Map into one, while
   - File Size Information Doc - [Link](https://docs.google.com/document/d/1Rwwi_wdfORUhWOdMs_ivI2N-IlWQMbfT3lh6bnO-8KA/edit?usp=sharing)
 - **Fortress** 
   - Spawner Practice
-  - Blaze Bed / TNT
+  - Blaze Bed / TNT Setup Practice
 - **Queue Games**
   - *Games you can play, while you are in the MCSR Ranked Queue, or just for fun :)*
   - Replica - Rebuild the shown builds as quick as possible
