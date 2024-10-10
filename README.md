@@ -42,7 +42,7 @@ A Practice map which combines every imporant 1.16.1 Practice Map into one, while
   - Map sounds can be toggled On/Off
 
 ## Feedback
-Feel free to use the link below to give feedback on this Project. 
+Feel free to use the link below to report bugs, suggest new features or give feedback on this Project. 
 
 [Feedback - Link](https://www.surveymonkey.com/r/YTMFP3J)
 
