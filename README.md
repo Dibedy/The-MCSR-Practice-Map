@@ -41,10 +41,21 @@ A Practice map which combines every imporant 1.16.1 Practice Map into one, while
   - Standard/Simple Hub Design (Changable via `/trigger options`)
   - Map sounds can be toggled On/Off
 
-## Feedback
-Feel free to use the link below to report bugs, suggest new features or give feedback on this Project. 
+## Installation Instructions
+1. Open the **Releases** tab on the right side of the page
+2. Download the latest `.zip` file of the map  
+   Example: `MCSR.Practice.vX.X.X.zip`
+3. Unzip the file  
+   I recommend WinRAR or 7zip to avoid file issues
+4. Open the unzipped folder and verify the structure  
+   There must be **no folder inside another folder**.
+   If there is, drag the inner folder out
+5. Move the map folder into the `saves` folder of your Minecraft instance.  
+6. Start Minecraft and select the world  
+   Start Practicing :)
 
-[Feedback - Link](https://www.surveymonkey.com/r/YTMFP3J)
+## Feedback
+Feel free to use the "Issues" tab to report bugs, suggest new features or give feedback on this Project. 
 
 ## Credits
 - **Portal Practice** - Semperzz
