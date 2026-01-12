@@ -4,7 +4,7 @@ A Practice map which combines every imporant 1.16.1 Practice Map into one, while
 
 ## Features
 - **Portal Practice**
-  - Added closed Terrain Portals
+- Portal Practice with plenty of customization
 - **Zero / One Cycle Practice**
   - Added Zero Setup Practice
 - **Overworld Practice**
@@ -26,8 +26,7 @@ A Practice map which combines every imporant 1.16.1 Practice Map into one, while
 - **Bastion Practice**
   - File Size Information Doc - [Link](https://docs.google.com/document/d/1Rwwi_wdfORUhWOdMs_ivI2N-IlWQMbfT3lh6bnO-8KA/edit?usp=sharing)
 - **Fortress** 
-  - Spawner Practice
-  - Blaze Bed / TNT Setup Practice
+  - Spawner Practice with plenty of customization
 - **Queue Games**
   - *Games you can play, while you are in the MCSR Ranked Queue, or just for fun :)*
   - Replica - Rebuild the shown builds as quick as possible
@@ -55,14 +54,14 @@ A Practice map which combines every imporant 1.16.1 Practice Map into one, while
    Start Practicing :)
 
 ## Feedback
-Feel free to use the "Issues" tab to report bugs, suggest new features or give feedback on this Project. 
+Feel free to use the GitHub "Issues" tab to report bugs, suggest new features or give feedback on this Project. 
 
 ## Credits
-- **Portal Practice** - Semperzz
+- **Portal Practice** - Mescht
 - **Zero Practice** - Mescht
 - **Search Crafting** - Mescht
 - **Bastion Practice** - LlamaPag
 - **OW Practice** - Dibedy
-- **Fortress Practice** - Dibedy
+- **Fortress Practice** - Mescht
 - **Hub System** - Dibedy
 - **Queue Games** - Dibedy
