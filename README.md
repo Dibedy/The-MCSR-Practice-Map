@@ -50,7 +50,7 @@ A Practice map which combines every imporant 1.16.1 Practice Map into one, while
    There must be **no folder inside another folder**.
    If there is, drag the inner folder out
 5. Move the map folder into the `saves` folder of your Minecraft instance.  
-6. Start Minecraft and select the world  
+6. Start Minecraft and select the world. Minecraft Version 1.16.1!
    Start Practicing :)
 
 ## Feedback
