@@ -1,5 +1,5 @@
 # The MCSR Practice Map
-
+## ONLY FOR MINECRAFT VERSION 1.16.1
 A Practice map which combines every imporant 1.16.1 Practice Map into one, while adding new features and sections.
 
 ## Features
